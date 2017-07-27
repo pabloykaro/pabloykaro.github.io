@@ -6,7 +6,10 @@
 </head>
 <body>
   <script>
-  window.open("http://lolspec.esy.es/");
+ 
+    $.get('http://lolspec.esy.es/', function(data) {
+     alert(data);
+});
   </script>
 </body>
 </html>
