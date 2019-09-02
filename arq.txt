@@ -1,5 +1,0 @@
-Conhecimento em:
-JAVASCRIPT
-PHP
-HTML
-CSS
